@@ -365,3 +365,6 @@ Pull requests are welcome. If you want to change the API or do something big it 
 ---
 
 **[MIT Licensed](https://github.com/crazycodeboy/react-native-splash-screen/blob/master/LICENSE)**
+
+Fork from https://github.com/SolankiYogesh/react-native-splash-screen
+
